@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KIRTI MANI - MERN/PERN Developer</h1>
+<h1 align="center">Hi 👋, I'm KIRTI MANI - MERN/PERN Stack Developer</h1>
 # 💫 About Me:
 🔭 I’m currently working on B.Tech CSE<br>👯 I’m looking to collaborate on  Chat Application With Backend <br>🌱 I’m currently learning Data Structure & Algorithm<br>💬 Ask me about I'm Full Stack Developer<br>⚡ Fun fact I'm Very Funny
 
